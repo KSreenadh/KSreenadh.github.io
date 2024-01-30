@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 14:24:12 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title></title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/</link>
+    </image>
+    
+    <item>
+      <title>SpotOn: Adversarially Robust Keyword Spotting on Resource-Constrained IoT Platforms</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2024-asiaccs-spoton/</link>
+      <pubDate>Mon, 01 Jul 2024 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2024-asiaccs-spoton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2023-ecai-spat/</link>
+      <pubDate>Sat, 30 Sep 2023 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2023-ecai-spat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmrtComp: Intelligent and Online CAN Data Compression</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2023-itsc-smrtcomp/</link>
+      <pubDate>Tue, 19 Sep 2023 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2023-itsc-smrtcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZBCAN: A Zero-Byte CAN Defense System</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2023-usenix-zbcan/</link>
+      <pubDate>Sat, 19 Aug 2023 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2023-usenix-zbcan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Practical Swarm Attestation using Probabilistic Program Integrity Verification</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2023-vehiclesec-pracattest/</link>
+      <pubDate>Sun, 19 Feb 2023 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2023-vehiclesec-pracattest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: Attacks on CAN Error Handling Mechanism</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2022-autosec-can/</link>
+      <pubDate>Sun, 27 Feb 2022 16:43:23 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2022-autosec-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Attestation for Edge Devices Running Compute Heavy Machine Learning Applications</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-acsac-pracattest/</link>
+      <pubDate>Sat, 25 Dec 2021 16:32:55 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-acsac-pracattest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attestation of IoT Devices (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/edge-device-security/</link>
+      <pubDate>Sat, 25 Sep 2021 17:25:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/edge-device-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASAN: Detecting peripheral access concurrency bugs within bare-metal embedded applications</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-usenix-pasan/</link>
+      <pubDate>Thu, 19 Aug 2021 16:43:23 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-usenix-pasan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposing new vulnerabilities of error handling mechanism in CAN</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-usenix-canox/</link>
+      <pubDate>Thu, 19 Aug 2021 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-usenix-canox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cumulative message authentication codes for resource-constrained IoT networks</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-iot-cumulative/</link>
+      <pubDate>Wed, 07 Jul 2021 15:26:13 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-iot-cumulative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evading voltage-based intrusion detection on automotive CAN</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-ndss-duet/</link>
+      <pubDate>Sun, 21 Feb 2021 18:32:37 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-ndss-duet/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VpofkAPaBE8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>3D printed graphene-based self-powered strain sensors for smart tires in autonomous vehicles</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-nc-printed/</link>
+      <pubDate>Mon, 26 Oct 2020 12:34:02 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-nc-printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlueShield: Detecting spoofing attacks in Bluetooth low energy networks</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-raid-blueshield/</link>
+      <pubDate>Fri, 16 Oct 2020 15:40:21 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-raid-blueshield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5G Cellular Network Security (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/5g-security/</link>
+      <pubDate>Tue, 04 Aug 2020 19:05:16 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/5g-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication in Automotive Network (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/can-security/</link>
+      <pubDate>Tue, 04 Aug 2020 19:05:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/can-security/</guid>
+      <description>&lt;p&gt;Controller area network (CAN) is the most popular in-vehicle communication protocol in modern cars. CAN enables real-time communication among critical automotive electronics control units, such as brake and engine control units. Unfortunately, CAN is not equipped with standard security mechanisms due to resource (energy and bandwidth)-constrained nature of communication. In this evolving research domain, we are exploring new security vulnerabilities in CAN which can be exploited by an adversary to gain control of the vehicle remotely (without physical access). We are also developing novel mechanisms which can be readily implemented in resource-constrained CAN to secure it against those vulnerabilities.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-automotive-electronic-control-units-connected-through-a-can-bus&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/can-security/can_hu766c948fdcaa7078dcac05a7ff1943f0_1222910_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Automotive electronic control units connected through a CAN bus.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/can-security/can_hu766c948fdcaa7078dcac05a7ff1943f0_1222910_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5890&#34; height=&#34;2425&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Automotive electronic control units connected through a CAN bus.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;You can watch the following demonstration of one of our research works in this project. This work is under submission.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VpofkAPaBE8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>BLESA: Spoofing attacks against reconnections in Bluetooth low energy</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-woot-blesa/</link>
+      <pubDate>Mon, 03 Aug 2020 18:00:56 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-woot-blesa/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-xMjBInIRBU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Security and Privacy Issues in Drones (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/drone-security/</link>
+      <pubDate>Mon, 03 Aug 2020 17:54:48 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/drone-security/</guid>
+      <description>&lt;p&gt;Robotic air vehicles, e.g., drones, are touted to be widely adopted in a variety of applications. On one hand, they are vulnerable to attacks targeting their control systems and causing undesirable crashes. On the other hand, they bring forth unique security challenges for enforcement agencies and privacy threats for public at large. In this project, we develop mechanisms to address these issues so that we could expedite the proliferation of the robotic air vehicles in increasing number of applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cumulative message authentication codes for resource-constrained networks</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-cns-cumulative/</link>
+      <pubDate>Wed, 03 Jun 2020 17:59:39 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-cns-cumulative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-wiley-policy/</link>
+      <pubDate>Fri, 03 Apr 2020 17:53:56 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-wiley-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication in Bluetooth Low Energy (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/bluetooth-security/</link>
+      <pubDate>Tue, 04 Feb 2020 19:05:16 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/bluetooth-security/</guid>
+      <description>&lt;p&gt;IoT devices used in smart homes are equipped with lightweight communication protocols, e.g., Bluetooth Low Energy (BLE), to support interaction with their users in an energy-efficient manner. However, due to their very limited I/O capabilities, on one hand, BLE devices are vulnerable to attacks including illegal device access and inference of sensitive information; on the other hand, their users are prone to spoofing attacks through which an attacker can feed malicious data to the user&amp;rsquo;s device (e.g., a smartphone). Defending against such attacks in the real world is extremely difficult, given the fact that BLE devices are manufactured by thousands of vendors and developers with little remote update support. To tackle these challenges, we analyze the BLE protocol and discover new attack surfaces. We also develop device-agnostic defense mechanisms for protecting the BLE networks.&lt;/p&gt;
+&lt;p&gt;You can watch the following demonstration of one of our research works in this project. This work has been presented at Usenix Workshop on Offensive Technologies (WOOT), 2020.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-xMjBInIRBU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Authentication in Vehicular Network (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/v2x-privacy/</link>
+      <pubDate>Wed, 04 Sep 2019 19:05:43 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/v2x-privacy/</guid>
+      <description>&lt;p&gt;Sender authentication is an essential in the Internet-of-Things (IoT) paradigm that rely on digital communications over insecure networks. In some IoT applications, such as intelligent transportation system (ITS) employing vehicle-to-everything (V2X) communication, authentication is not sufficient, and in addition to authentication, the sender’s privacy need to be protected &amp;mdash; the combination of these two attributes is often referred to as privacy-preserving/anonymous authentication. Due to the paradoxical nature of anonymity and authentication, all the existing anonymous authentication approaches suffer from inefficient user revocation mechanism. For some approaches, the computation time for the revocation check procedure increases linearly with the number of revoked users in the network. Hence, revocation remains the serious performance bottleneck of anonymous authentication schemes in IoT. In this project, we are designing schemes offering better scalability with regard to revocation.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/v2x-privacy/model_hu47d1ef891d2cad4814805681b71870ec_249206_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/v2x-privacy/model_hu47d1ef891d2cad4814805681b71870ec_249206_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1185&#34; height=&#34;885&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enforcement in Dynamic Spectrum Sharing (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/spectrum-security/</link>
+      <pubDate>Sun, 04 Aug 2019 19:06:09 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/spectrum-security/</guid>
+      <description>&lt;p&gt;Recent advances in spectrum access technologies, such as software-defined radios, have made dynamic spectrum sharing a viable option for addressing the spectrum shortage problem in smart cities. However, these advances have also contributed to the increased possibility of &amp;ldquo;rogue&amp;rdquo; transmitter radios which violate spectrum access rules prescribed by a spectrum regulatory authority, and cause significant interference to other radios. One approach for countering such threats is to employ a transmitter authentication scheme in which an &amp;ldquo;authentication signal&amp;rdquo; is generated by the transmitter and embedded into the &amp;ldquo;message signal&amp;rdquo; at the physical (PHY) layer. This enables a regulatory enforcement entity to extract the authentication signal from the received signal, uniquely identify the transmitter, and collect verifiable evidence (of any rogue transmission) that can be used later during an adjudication process. In this project, we are developing novel authentication approaches using PHY-layer characteristics, such as inter-symbol interference and carrier frequency offset, at the transmitter.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-threat-model-in-dynamic-spectrum-sharing-environment&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/spectrum-security/model_hue44af0cb3c4d9d0ae67d47547dba3c7f_1039258_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Threat model in dynamic spectrum sharing environment.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/spectrum-security/model_hue44af0cb3c4d9d0ae67d47547dba3c7f_1039258_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5140&#34; height=&#34;3525&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Threat model in dynamic spectrum sharing environment.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-usp-group/</link>
+      <pubDate>Mon, 03 Jun 2019 18:07:18 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-usp-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced authentication for enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</link>
+      <pubDate>Fri, 03 May 2019 18:06:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy harvesting and strain sensing in smart tire for next generation autonomous vehicles</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-ae-energy/</link>
+      <pubDate>Mon, 03 Dec 2018 18:05:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-ae-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcement in spectrum sharing: Crowd-sourced blind authentication of co-channel transmitters</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</link>
+      <pubDate>Wed, 03 Oct 2018 17:59:06 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct anonymous attestation with efficient verifier-local revocation for subscription system</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-asiaccs-direct/</link>
+      <pubDate>Sun, 03 Jun 2018 17:58:42 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-asiaccs-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmitter authentication using hierarchical modulation in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2017-jnca-transmitter/</link>
+      <pubDate>Thu, 03 Aug 2017 18:03:45 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2017-jnca-transmitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmitter authentication in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2017-viresh-dissertation/</link>
+      <pubDate>Fri, 03 Feb 2017 18:09:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2017-viresh-dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication using duobinary signaling for spectrum enforcement</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2016-tifs-phy/</link>
+      <pubDate>Tue, 03 May 2016 18:03:37 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2016-tifs-phy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation: A computationally-scalable approach for providing privacy-preserving authentication</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</link>
+      <pubDate>Mon, 03 Aug 2015 17:58:22 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security and enforcement in spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-proc-security/</link>
+      <pubDate>Sun, 03 Aug 2014 18:02:28 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-proc-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind transmitter authentication for spectrum security and enforcement</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-ccs-blind/</link>
+      <pubDate>Sat, 03 May 2014 17:58:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-ccs-blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication using hierarchical modulation and duobinary signaling</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-icnc-phy/</link>
+      <pubDate>Mon, 03 Feb 2014 17:57:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-icnc-phy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication by introducing controlled inter symbol interference</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2013-cns-phy/</link>
+      <pubDate>Sat, 03 Aug 2013 17:57:05 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2013-cns-phy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Theoretic Security (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/theoretical-security/</link>
+      <pubDate>Sat, 11 Aug 2012 17:54:35 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/theoretical-security/</guid>
+      <description>&lt;p&gt;We develop techniques which are provably secure against an adversary with unconstrained computational power.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Achievable secrecy sum-rate in a fading MAC-WT with power control and without CSI of eavesdropper</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2012-spcom-achievable/</link>
+      <pubDate>Sun, 03 Jun 2012 17:56:06 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2012-spcom-achievable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/biography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/biography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

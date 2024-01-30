@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Clancy | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/author/charles-clancy/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/author/charles-clancy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Clancy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2014 18:02:28 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles Clancy</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/author/charles-clancy/</link>
+    </image>
+    
+    <item>
+      <title>Security and enforcement in spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-proc-security/</link>
+      <pubDate>Sun, 03 Aug 2014 18:02:28 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-proc-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication using hierarchical modulation and duobinary signaling</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-icnc-phy/</link>
+      <pubDate>Mon, 03 Feb 2014 17:57:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-icnc-phy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication by introducing controlled inter symbol interference</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2013-cns-phy/</link>
+      <pubDate>Sat, 03 Aug 2013 17:57:05 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2013-cns-phy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

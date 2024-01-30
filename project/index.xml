@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Projects | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/project/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 17:25:00 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Research Projects</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/</link>
+    </image>
+    
+    <item>
+      <title>Attestation of IoT Devices (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/edge-device-security/</link>
+      <pubDate>Sat, 25 Sep 2021 17:25:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/edge-device-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5G Cellular Network Security (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/5g-security/</link>
+      <pubDate>Tue, 04 Aug 2020 19:05:16 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/5g-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication in Automotive Network (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/can-security/</link>
+      <pubDate>Tue, 04 Aug 2020 19:05:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/can-security/</guid>
+      <description>&lt;p&gt;Controller area network (CAN) is the most popular in-vehicle communication protocol in modern cars. CAN enables real-time communication among critical automotive electronics control units, such as brake and engine control units. Unfortunately, CAN is not equipped with standard security mechanisms due to resource (energy and bandwidth)-constrained nature of communication. In this evolving research domain, we are exploring new security vulnerabilities in CAN which can be exploited by an adversary to gain control of the vehicle remotely (without physical access). We are also developing novel mechanisms which can be readily implemented in resource-constrained CAN to secure it against those vulnerabilities.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-automotive-electronic-control-units-connected-through-a-can-bus&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/can-security/can_hu766c948fdcaa7078dcac05a7ff1943f0_1222910_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Automotive electronic control units connected through a CAN bus.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/can-security/can_hu766c948fdcaa7078dcac05a7ff1943f0_1222910_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5890&#34; height=&#34;2425&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Automotive electronic control units connected through a CAN bus.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;You can watch the following demonstration of one of our research works in this project. This work is under submission.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VpofkAPaBE8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Security and Privacy Issues in Drones (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/drone-security/</link>
+      <pubDate>Mon, 03 Aug 2020 17:54:48 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/drone-security/</guid>
+      <description>&lt;p&gt;Robotic air vehicles, e.g., drones, are touted to be widely adopted in a variety of applications. On one hand, they are vulnerable to attacks targeting their control systems and causing undesirable crashes. On the other hand, they bring forth unique security challenges for enforcement agencies and privacy threats for public at large. In this project, we develop mechanisms to address these issues so that we could expedite the proliferation of the robotic air vehicles in increasing number of applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authentication in Bluetooth Low Energy (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/bluetooth-security/</link>
+      <pubDate>Tue, 04 Feb 2020 19:05:16 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/bluetooth-security/</guid>
+      <description>&lt;p&gt;IoT devices used in smart homes are equipped with lightweight communication protocols, e.g., Bluetooth Low Energy (BLE), to support interaction with their users in an energy-efficient manner. However, due to their very limited I/O capabilities, on one hand, BLE devices are vulnerable to attacks including illegal device access and inference of sensitive information; on the other hand, their users are prone to spoofing attacks through which an attacker can feed malicious data to the user&amp;rsquo;s device (e.g., a smartphone). Defending against such attacks in the real world is extremely difficult, given the fact that BLE devices are manufactured by thousands of vendors and developers with little remote update support. To tackle these challenges, we analyze the BLE protocol and discover new attack surfaces. We also develop device-agnostic defense mechanisms for protecting the BLE networks.&lt;/p&gt;
+&lt;p&gt;You can watch the following demonstration of one of our research works in this project. This work has been presented at Usenix Workshop on Offensive Technologies (WOOT), 2020.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-xMjBInIRBU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Authentication in Vehicular Network (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/v2x-privacy/</link>
+      <pubDate>Wed, 04 Sep 2019 19:05:43 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/v2x-privacy/</guid>
+      <description>&lt;p&gt;Sender authentication is an essential in the Internet-of-Things (IoT) paradigm that rely on digital communications over insecure networks. In some IoT applications, such as intelligent transportation system (ITS) employing vehicle-to-everything (V2X) communication, authentication is not sufficient, and in addition to authentication, the sender’s privacy need to be protected &amp;mdash; the combination of these two attributes is often referred to as privacy-preserving/anonymous authentication. Due to the paradoxical nature of anonymity and authentication, all the existing anonymous authentication approaches suffer from inefficient user revocation mechanism. For some approaches, the computation time for the revocation check procedure increases linearly with the number of revoked users in the network. Hence, revocation remains the serious performance bottleneck of anonymous authentication schemes in IoT. In this project, we are designing schemes offering better scalability with regard to revocation.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/v2x-privacy/model_hu47d1ef891d2cad4814805681b71870ec_249206_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/v2x-privacy/model_hu47d1ef891d2cad4814805681b71870ec_249206_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1185&#34; height=&#34;885&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enforcement in Dynamic Spectrum Sharing (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/spectrum-security/</link>
+      <pubDate>Sun, 04 Aug 2019 19:06:09 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/spectrum-security/</guid>
+      <description>&lt;p&gt;Recent advances in spectrum access technologies, such as software-defined radios, have made dynamic spectrum sharing a viable option for addressing the spectrum shortage problem in smart cities. However, these advances have also contributed to the increased possibility of &amp;ldquo;rogue&amp;rdquo; transmitter radios which violate spectrum access rules prescribed by a spectrum regulatory authority, and cause significant interference to other radios. One approach for countering such threats is to employ a transmitter authentication scheme in which an &amp;ldquo;authentication signal&amp;rdquo; is generated by the transmitter and embedded into the &amp;ldquo;message signal&amp;rdquo; at the physical (PHY) layer. This enables a regulatory enforcement entity to extract the authentication signal from the received signal, uniquely identify the transmitter, and collect verifiable evidence (of any rogue transmission) that can be used later during an adjudication process. In this project, we are developing novel authentication approaches using PHY-layer characteristics, such as inter-symbol interference and carrier frequency offset, at the transmitter.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-threat-model-in-dynamic-spectrum-sharing-environment&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/spectrum-security/model_hue44af0cb3c4d9d0ae67d47547dba3c7f_1039258_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Threat model in dynamic spectrum sharing environment.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/spectrum-security/model_hue44af0cb3c4d9d0ae67d47547dba3c7f_1039258_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5140&#34; height=&#34;3525&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Threat model in dynamic spectrum sharing environment.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Information Theoretic Security (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/theoretical-security/</link>
+      <pubDate>Sat, 11 Aug 2012 17:54:35 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/theoretical-security/</guid>
+      <description>&lt;p&gt;We develop techniques which are provably secure against an adversary with unconstrained computational power.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

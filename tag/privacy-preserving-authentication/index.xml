@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy-Preserving Authentication | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/privacy-preserving-authentication/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/privacy-preserving-authentication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Privacy-Preserving Authentication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 18:07:18 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Privacy-Preserving Authentication</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/privacy-preserving-authentication/</link>
+    </image>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-usp-group/</link>
+      <pubDate>Mon, 03 Jun 2019 18:07:18 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-usp-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmitter authentication in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2017-viresh-dissertation/</link>
+      <pubDate>Fri, 03 Feb 2017 18:09:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2017-viresh-dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation: A computationally-scalable approach for providing privacy-preserving authentication</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</link>
+      <pubDate>Mon, 03 Aug 2015 17:58:22 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

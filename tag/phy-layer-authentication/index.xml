@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHY-Layer Authentication | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/phy-layer-authentication/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/phy-layer-authentication/index.xml" rel="self" type="application/rss+xml" />
+    <description>PHY-Layer Authentication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 18:06:12 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>PHY-Layer Authentication</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/phy-layer-authentication/</link>
+    </image>
+    
+    <item>
+      <title>Crowd-sourced authentication for enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</link>
+      <pubDate>Fri, 03 May 2019 18:06:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcement in spectrum sharing: Crowd-sourced blind authentication of co-channel transmitters</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</link>
+      <pubDate>Wed, 03 Oct 2018 17:59:06 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

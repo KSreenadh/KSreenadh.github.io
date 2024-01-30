@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attestation | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/attestation/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/attestation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Attestation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Feb 2023 14:24:12 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Attestation</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/attestation/</link>
+    </image>
+    
+    <item>
+      <title>Poster: Practical Swarm Attestation using Probabilistic Program Integrity Verification</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2023-vehiclesec-pracattest/</link>
+      <pubDate>Sun, 19 Feb 2023 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2023-vehiclesec-pracattest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Attestation for Edge Devices Running Compute Heavy Machine Learning Applications</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-acsac-pracattest/</link>
+      <pubDate>Sat, 25 Dec 2021 16:32:55 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-acsac-pracattest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attestation of IoT Devices (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/edge-device-security/</link>
+      <pubDate>Sat, 25 Sep 2021 17:25:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/edge-device-security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

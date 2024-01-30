@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taiwo Oyedare | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/author/taiwo-oyedare/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/author/taiwo-oyedare/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taiwo Oyedare</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 17:53:56 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Taiwo Oyedare</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/author/taiwo-oyedare/</link>
+    </image>
+    
+    <item>
+      <title>Policy enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-wiley-policy/</link>
+      <pubDate>Fri, 03 Apr 2020 17:53:56 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-wiley-policy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

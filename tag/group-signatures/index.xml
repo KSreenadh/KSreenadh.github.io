@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Signatures | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/group-signatures/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/group-signatures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Group Signatures</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 18:07:18 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Group Signatures</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/group-signatures/</link>
+    </image>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-usp-group/</link>
+      <pubDate>Mon, 03 Jun 2019 18:07:18 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-usp-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation: A computationally-scalable approach for providing privacy-preserving authentication</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</link>
+      <pubDate>Mon, 03 Aug 2015 17:58:22 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

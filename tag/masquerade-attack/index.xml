@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masquerade Attack | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/masquerade-attack/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/masquerade-attack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masquerade Attack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Feb 2021 18:32:37 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Masquerade Attack</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/masquerade-attack/</link>
+    </image>
+    
+    <item>
+      <title>Evading voltage-based intrusion detection on automotive CAN</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-ndss-duet/</link>
+      <pubDate>Sun, 21 Feb 2021 18:32:37 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-ndss-duet/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VpofkAPaBE8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

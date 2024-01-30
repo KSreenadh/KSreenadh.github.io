@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Spectrum Sharing | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/dynamic-spectrum-sharing/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/dynamic-spectrum-sharing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic Spectrum Sharing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 17:53:56 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Dynamic Spectrum Sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/dynamic-spectrum-sharing/</link>
+    </image>
+    
+    <item>
+      <title>Policy enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-wiley-policy/</link>
+      <pubDate>Fri, 03 Apr 2020 17:53:56 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-wiley-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced authentication for enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</link>
+      <pubDate>Fri, 03 May 2019 18:06:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcement in spectrum sharing: Crowd-sourced blind authentication of co-channel transmitters</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</link>
+      <pubDate>Wed, 03 Oct 2018 17:59:06 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmitter authentication using hierarchical modulation in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2017-jnca-transmitter/</link>
+      <pubDate>Thu, 03 Aug 2017 18:03:45 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2017-jnca-transmitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmitter authentication in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2017-viresh-dissertation/</link>
+      <pubDate>Fri, 03 Feb 2017 18:09:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2017-viresh-dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication using duobinary signaling for spectrum enforcement</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2016-tifs-phy/</link>
+      <pubDate>Tue, 03 May 2016 18:03:37 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2016-tifs-phy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security and enforcement in spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-proc-security/</link>
+      <pubDate>Sun, 03 Aug 2014 18:02:28 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-proc-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind transmitter authentication for spectrum security and enforcement</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-ccs-blind/</link>
+      <pubDate>Sat, 03 May 2014 17:58:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-ccs-blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication using hierarchical modulation and duobinary signaling</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-icnc-phy/</link>
+      <pubDate>Mon, 03 Feb 2014 17:57:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-icnc-phy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY-layer authentication by introducing controlled inter symbol interference</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2013-cns-phy/</link>
+      <pubDate>Sat, 03 Aug 2013 17:57:05 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2013-cns-phy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

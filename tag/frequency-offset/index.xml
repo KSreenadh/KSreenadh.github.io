@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frequency Offset | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/frequency-offset/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/frequency-offset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frequency Offset</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2014 17:58:00 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Frequency Offset</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/frequency-offset/</link>
+    </image>
+    
+    <item>
+      <title>Blind transmitter authentication for spectrum security and enforcement</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2014-ccs-blind/</link>
+      <pubDate>Sat, 03 May 2014 17:58:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2014-ccs-blind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

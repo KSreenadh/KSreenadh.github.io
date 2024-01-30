@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denial-of-Service (DoS) Attack | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/denial-of-service-dos-attack/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/denial-of-service-dos-attack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denial-of-Service (DoS) Attack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Aug 2023 14:24:12 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Denial-of-Service (DoS) Attack</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/denial-of-service-dos-attack/</link>
+    </image>
+    
+    <item>
+      <title>ZBCAN: A Zero-Byte CAN Defense System</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2023-usenix-zbcan/</link>
+      <pubDate>Sat, 19 Aug 2023 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2023-usenix-zbcan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: Attacks on CAN Error Handling Mechanism</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2022-autosec-can/</link>
+      <pubDate>Sun, 27 Feb 2022 16:43:23 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2022-autosec-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposing new vulnerabilities of error handling mechanism in CAN</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-usenix-canox/</link>
+      <pubDate>Thu, 19 Aug 2021 14:24:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-usenix-canox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAN | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/can/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/can/index.xml" rel="self" type="application/rss+xml" />
+    <description>CAN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 19:05:00 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>CAN</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/can/</link>
+    </image>
+    
+    <item>
+      <title>Authentication in Automotive Network (Ongoing)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/can-security/</link>
+      <pubDate>Tue, 04 Aug 2020 19:05:00 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/can-security/</guid>
+      <description>&lt;p&gt;Controller area network (CAN) is the most popular in-vehicle communication protocol in modern cars. CAN enables real-time communication among critical automotive electronics control units, such as brake and engine control units. Unfortunately, CAN is not equipped with standard security mechanisms due to resource (energy and bandwidth)-constrained nature of communication. In this evolving research domain, we are exploring new security vulnerabilities in CAN which can be exploited by an adversary to gain control of the vehicle remotely (without physical access). We are also developing novel mechanisms which can be readily implemented in resource-constrained CAN to secure it against those vulnerabilities.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-automotive-electronic-control-units-connected-through-a-can-bus&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/can-security/can_hu766c948fdcaa7078dcac05a7ff1943f0_1222910_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Automotive electronic control units connected through a CAN bus.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/can-security/can_hu766c948fdcaa7078dcac05a7ff1943f0_1222910_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5890&#34; height=&#34;2425&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Automotive electronic control units connected through a CAN bus.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;You can watch the following demonstration of one of our research works in this project. This work is under submission.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VpofkAPaBE8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

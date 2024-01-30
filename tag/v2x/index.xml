@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V2X | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/v2x/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/v2x/index.xml" rel="self" type="application/rss+xml" />
+    <description>V2X</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2019 19:05:43 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>V2X</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/v2x/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-Preserving Authentication in Vehicular Network (Completed)</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/project/v2x-privacy/</link>
+      <pubDate>Wed, 04 Sep 2019 19:05:43 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/project/v2x-privacy/</guid>
+      <description>&lt;p&gt;Sender authentication is an essential in the Internet-of-Things (IoT) paradigm that rely on digital communications over insecure networks. In some IoT applications, such as intelligent transportation system (ITS) employing vehicle-to-everything (V2X) communication, authentication is not sufficient, and in addition to authentication, the sender’s privacy need to be protected &amp;mdash; the combination of these two attributes is often referred to as privacy-preserving/anonymous authentication. Due to the paradoxical nature of anonymity and authentication, all the existing anonymous authentication approaches suffer from inefficient user revocation mechanism. For some approaches, the computation time for the revocation check procedure increases linearly with the number of revoked users in the network. Hence, revocation remains the serious performance bottleneck of anonymous authentication schemes in IoT. In this project, we are designing schemes offering better scalability with regard to revocation.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/v2x-privacy/model_hu47d1ef891d2cad4814805681b71870ec_249206_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;http://www.cse.iitd.ernet.in/~viresh/~viresh/project/v2x-privacy/model_hu47d1ef891d2cad4814805681b71870ec_249206_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1185&#34; height=&#34;885&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

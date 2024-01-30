@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automotive Tire | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/tag/automotive-tire/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/tag/automotive-tire/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automotive Tire</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2020 12:34:02 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Automotive Tire</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/tag/automotive-tire/</link>
+    </image>
+    
+    <item>
+      <title>3D printed graphene-based self-powered strain sensors for smart tires in autonomous vehicles</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-nc-printed/</link>
+      <pubDate>Mon, 26 Oct 2020 12:34:02 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-nc-printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy harvesting and strain sensing in smart tire for next generation autonomous vehicles</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-ae-energy/</link>
+      <pubDate>Mon, 03 Dec 2018 18:05:41 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-ae-energy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

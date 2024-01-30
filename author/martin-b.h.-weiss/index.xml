@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin B.H. Weiss | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/author/martin-b.h.-weiss/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/author/martin-b.h.-weiss/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin B.H. Weiss</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jun 2018 17:58:42 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Martin B.H. Weiss</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/author/martin-b.h.-weiss/</link>
+    </image>
+    
+    <item>
+      <title>Direct anonymous attestation with efficient verifier-local revocation for subscription system</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-asiaccs-direct/</link>
+      <pubDate>Sun, 03 Jun 2018 17:58:42 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-asiaccs-direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

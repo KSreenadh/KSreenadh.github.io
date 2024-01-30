@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianliang Wu | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/author/jianliang-wu/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/author/jianliang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianliang Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 15:40:21 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>Jianliang Wu</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/author/jianliang-wu/</link>
+    </image>
+    
+    <item>
+      <title>BlueShield: Detecting spoofing attacks in Bluetooth low energy networks</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-raid-blueshield/</link>
+      <pubDate>Fri, 16 Oct 2020 15:40:21 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-raid-blueshield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLESA: Spoofing attacks against reconnections in Bluetooth low energy</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-woot-blesa/</link>
+      <pubDate>Mon, 03 Aug 2020 18:00:56 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-woot-blesa/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-xMjBInIRBU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

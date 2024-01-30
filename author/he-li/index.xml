@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He Li | </title>
+    <link>http://www.cse.iitd.ernet.in/~viresh/author/he-li/</link>
+      <atom:link href="http://www.cse.iitd.ernet.in/~viresh/author/he-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>He Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 15:26:13 +0530</lastBuildDate>
+    <image>
+      <url>http://www.cse.iitd.ernet.in/~viresh/images/icon_huf3ac7df14e75abed5bbb99b5a56ab70a_30193_512x512_fill_lanczos_center_2.png</url>
+      <title>He Li</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/author/he-li/</link>
+    </image>
+    
+    <item>
+      <title>Cumulative message authentication codes for resource-constrained IoT networks</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2021-iot-cumulative/</link>
+      <pubDate>Wed, 07 Jul 2021 15:26:13 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2021-iot-cumulative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cumulative message authentication codes for resource-constrained networks</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2020-cns-cumulative/</link>
+      <pubDate>Wed, 03 Jun 2020 17:59:39 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2020-cns-cumulative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced authentication for enforcement in dynamic spectrum sharing</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</link>
+      <pubDate>Fri, 03 May 2019 18:06:12 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2019-tccn-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcement in spectrum sharing: Crowd-sourced blind authentication of co-channel transmitters</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</link>
+      <pubDate>Wed, 03 Oct 2018 17:59:06 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-dyspan-enforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct anonymous attestation with efficient verifier-local revocation for subscription system</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2018-asiaccs-direct/</link>
+      <pubDate>Sun, 03 Jun 2018 17:58:42 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2018-asiaccs-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group signatures with probabilistic revocation: A computationally-scalable approach for providing privacy-preserving authentication</title>
+      <link>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</link>
+      <pubDate>Mon, 03 Aug 2015 17:58:22 +0530</pubDate>
+      <guid>http://www.cse.iitd.ernet.in/~viresh/publication/2015-ccs-group/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
