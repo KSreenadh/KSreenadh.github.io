@@ -1,3 +1,2 @@
 # KSreenadh
-#url
-https://ksreenadh.github.io/index.html
+ksreenadh.github.io
